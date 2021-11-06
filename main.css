@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');    
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.head {
+    display: flex;
+    justify-content: space-around;
+    color: rgb(24, 179, 179);
+}
+.ul{
+    display: flex;
+}
+.list{    
+    margin-left: 27.5px;
+    list-style: none;
+    text-transform: uppercase;
+}
+.a{
+    text-transform: uppercase;   
+    font-size: 14px;
+    font-family: Montserrat;
+    color: rgb(24, 179, 179);
+    text-decoration-line: none;
+}
+.logo{
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+}
+.a:hover {
+    color: rgb(250, 137, 62);
+    cursor: pointer;
+}
+.we {
+    text-align: center;
+    font-family: Kaushan Script;
+    font-weight: 400;
+    font-size: 24px;
+    color: #333333;
+}
+.me{
+    text-align: center;
+    font-size: 30px;
+    font-family: Montserrat;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #333333; 
+}
+.pl{
+    background-color: #F38181;
+    width: 60px;
+    height: 4px;
+    margin: 36px auto 45px;
+}
+.lorem{
+    text-align: center;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: 400;
+    margin: auto auto 27px;
+    color: #B6B6B6;
+}
+.photo{
+    display: flex;
+    justify-content: space-between;
+}
+.p{
+    width: 380px;
+    height: 470px;
+}
+.t{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 14px;
+    color: #333333;
+}
+.t1{
+    font-family: Roboto;
+    font-style: italic;
+    font-size: 15px;
+    color: #B6B6B6;
+    text-align: center;
+}
+.ph{
+    display: flex;
+    flex-wrap: wrap;
+}
+.list1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.list-item{
+    display: flex;
+    width: 30%;
+}
+.te{
+    text-transform: uppercase;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+}
+.te1{
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: 400;
+    color:#B6B6B6;
+}
+.nat{
+    margin-top: 100px;
+}
+.img{
+    margin-right: 20px;
+}
+.downpan{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #B6B6B6;
+    align-items:flex-end;
+}
+.red{
+    color: #F38181;
+}
+.email{
+    width: 230px;
+    height: 39px;
+    margin-right: -6px;
+    font-family: Roboto;
+    font-weight: 300;
+    font-style: italic;
+}
+.but{
+    width: 150px;
+    height: 43px;
+    margin-right: 0px;
+    border-radius: 0px;
+    background-color: #95E1D3;
+    color: #FFFFFF;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+}
